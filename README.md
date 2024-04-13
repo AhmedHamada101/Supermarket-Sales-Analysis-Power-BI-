@@ -1,7 +1,7 @@
 # Supermarket-Sales-Analysis-Power-BI-
 
 
-**You can see the report (dashboard) from this link:** [https://www.novypro.com/project/supermarket-sales-analysis-power-bi] 
+**You can see the report (dashboard) from this link:** https://www.novypro.com/project/supermarket-sales-analysis-power-bi
 
 
 
