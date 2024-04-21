@@ -1,8 +1,7 @@
 # Supermarket-Sales-Analysis-Power-BI-
 
 
-**You can see the report (dashboard) from this link:** https://www.novypro.com/project/supermarket-sales-analysis-power-bi
-
+## [Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjFkOTQ3ODQtNzQ2ZC00YzAyLWIwMGItY2JkNDljNWIzMzA1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 
 **Steps⬇:**
 - Transforming data using Power Query.
