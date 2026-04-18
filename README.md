@@ -11,9 +11,9 @@ This project is a comprehensive Business Intelligence (BI) solution built entire
 - Built an interactive dashboard to analyze supermarket sales data (5,500+ transactions).
 - Performed data cleaning and transformation (using Power Query) to ensure data quality and consistency.
 - Analyzed key metrics including Revenue ($322K), Cost, and Gross Profit (4.76%).
-- Identified business insights such as:
-  -- The highest revenue is generated on weekends.
-  -- Balanced performance across branches and cities.
+- Identified business insights such as: \
+  - The highest revenue is generated on weekends. \
+  -  Balanced performance across branches and cities.
 
 
 <img src="Screenshot 2024-04-12 034118.png">
